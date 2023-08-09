@@ -1,0 +1,52 @@
+.contentDivList {
+  padding: 9%;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.contentDivListTitleInfo h2{
+  font-size: large;
+  font-weight:100;
+}
+.contentDivListTitle {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 30px;
+  display: block;
+}
+
+.date {
+  font-style: italic;
+  color: #777;
+  margin-bottom: 10px;
+  font-size: medium;
+  text-align: justify;
+}
+.newsImageItem{
+  width: 100%;
+}
+p {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.5;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+
+.info ul { 
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+
+  text-align: justify;
+}
+
+.info li {
+  font-size: 16px;
+  color: #777;
+  margin-bottom: 5px;
+}
+
+.info strong {
+  font-weight: bold;
+}

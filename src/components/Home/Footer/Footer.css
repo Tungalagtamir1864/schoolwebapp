@@ -1,0 +1,20 @@
+.footer {
+  background: #f0fdfa;
+}
+
+
+.footer  .box h3 {
+  font-size: 2rem;
+  text-transform: capitalize;
+  color: #444;
+  padding: 1rem 0;
+}
+
+
+.footer .box p {
+  font-size: 1.5rem;
+  line-height: 2;
+  color: #777;
+  padding: 1rem 0;
+  text-align: center;
+}
