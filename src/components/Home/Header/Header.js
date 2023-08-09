@@ -33,7 +33,7 @@ const Header = () => {
         <div id="close-navbar">
           <FontAwesomeIcon icon={faTimes} onClick={handleBars} />
         </div>
-        <Link to="/" className="a">
+        <Link to="/schoolwebapp" className="a">
           Нүүр
         </Link>
         <Link to="/about" className="a">
@@ -45,7 +45,7 @@ const Header = () => {
         <Link to="/News" className="a">
           Мэдээ
         </Link>
- 
+
       </nav>
 
       <div className="icons">
