@@ -33,7 +33,7 @@ const Header = () => {
         <div id="close-navbar">
           <FontAwesomeIcon icon={faTimes} onClick={handleBars} />
         </div>
-        <Link to="/schoolwebapp" className="a">
+        <Link to="/" className="a">
           Нүүр
         </Link>
         <Link to="/about" className="a">
